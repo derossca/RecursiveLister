@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class RecursiveListerRunner {
+public class RecursiveListerRunner extends RecursiveListerFrame {
+    public static void main(String[] args) {
+        RecursiveListerFrame frame = new RecursiveListerFrame();
+    }
 }
